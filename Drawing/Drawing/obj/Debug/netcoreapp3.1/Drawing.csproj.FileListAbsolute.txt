@@ -1,0 +1,17 @@
+D:\Desktop\CSharp_RandomDrawing\Drawing\Drawing\bin\Debug\netcoreapp3.1\Drawing.exe
+D:\Desktop\CSharp_RandomDrawing\Drawing\Drawing\bin\Debug\netcoreapp3.1\Drawing.deps.json
+D:\Desktop\CSharp_RandomDrawing\Drawing\Drawing\bin\Debug\netcoreapp3.1\Drawing.runtimeconfig.json
+D:\Desktop\CSharp_RandomDrawing\Drawing\Drawing\bin\Debug\netcoreapp3.1\Drawing.runtimeconfig.dev.json
+D:\Desktop\CSharp_RandomDrawing\Drawing\Drawing\bin\Debug\netcoreapp3.1\Drawing.dll
+D:\Desktop\CSharp_RandomDrawing\Drawing\Drawing\bin\Debug\netcoreapp3.1\Drawing.pdb
+D:\Desktop\CSharp_RandomDrawing\Drawing\Drawing\obj\Debug\netcoreapp3.1\Drawing.csprojAssemblyReference.cache
+D:\Desktop\CSharp_RandomDrawing\Drawing\Drawing\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Desktop\CSharp_RandomDrawing\Drawing\Drawing\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Desktop\CSharp_RandomDrawing\Drawing\Drawing\obj\Debug\netcoreapp3.1\Drawing_MarkupCompile.cache
+D:\Desktop\CSharp_RandomDrawing\Drawing\Drawing\obj\Debug\netcoreapp3.1\Drawing_MarkupCompile.lref
+D:\Desktop\CSharp_RandomDrawing\Drawing\Drawing\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Desktop\CSharp_RandomDrawing\Drawing\Drawing\obj\Debug\netcoreapp3.1\Drawing.g.resources
+D:\Desktop\CSharp_RandomDrawing\Drawing\Drawing\obj\Debug\netcoreapp3.1\Drawing.AssemblyInfoInputs.cache
+D:\Desktop\CSharp_RandomDrawing\Drawing\Drawing\obj\Debug\netcoreapp3.1\Drawing.AssemblyInfo.cs
+D:\Desktop\CSharp_RandomDrawing\Drawing\Drawing\obj\Debug\netcoreapp3.1\Drawing.dll
+D:\Desktop\CSharp_RandomDrawing\Drawing\Drawing\obj\Debug\netcoreapp3.1\Drawing.pdb
